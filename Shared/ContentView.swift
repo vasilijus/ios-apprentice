@@ -12,7 +12,7 @@ struct ContentView: View {
     
     var body: some View {
             VStack {
-                Text("Welcome to me app !<br> another line")
+                Text("Welcome to me app --- ON Chap 3 ---!<br> another line")
                     .fontWeight(.semibold)
                     .foregroundColor(.green)
                 .padding()
